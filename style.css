@@ -1,0 +1,34 @@
+button{
+  background-color: lightblue;
+  padding: 10px 15px;
+  border-radius: 7px;
+  border: 1px solid white;
+  font-family: "Poppins", Arial, Helvetica;
+  font-size: 20px;
+  font-weight: 700px;
+  transition: all 0.03 ease-in-out;
+}
+
+
+body {
+  background-image: url('/bg.jpg'); /* Menentukan gambar sebagai latar belakang */
+  text-allign: center;
+  text-justify: center;
+  width: 45%;
+  margin: auto;
+}
+
+p {
+  color: greenyellow; /* Menentukan warna font */
+  text-align: center; /* Menentukan pemosisian teks */
+  font-size: 14px; /* Menentukan ukuran font */
+  font-family: "Arial", Helvetica; /* Menentukan bentuk font*/
+}
+
+div{
+  text-align: center; /* Menentukan pemosisian teks*/
+}
+
+h1 {
+  color: orange;
+}
